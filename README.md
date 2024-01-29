@@ -1,2 +1,3 @@
 # Laravel-Crud
-This is a simple larave crud app
+This is a simple laravel crud app
+[![watch video](crud app.mp4)]
